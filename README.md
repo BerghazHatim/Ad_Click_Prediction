@@ -1,5 +1,5 @@
 ### Ad Click Prediction Web App
-This is a web application that predicts whether a particular user is likely to click on an advertisement or not. The application uses a machine learning model that was developed using the Ad_Click_project file in this repository, and parameters were fetched using the GridSearch file.
+Our web application utilizes predictive analytics to determine the likelihood of a specific user clicking on an advertisement. This project is designed to provide a more professional and engaging user experience by tailoring advertisements to individual users. By analyzing user data and behavior, our application can make informed predictions about which ads are most likely to resonate with each user, increasing the effectiveness of advertising campaigns and improving the overall user experience.
 
 ### Project Structure
 The project contains the following files and folders:
